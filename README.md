@@ -22,5 +22,5 @@ Os dados contém informações sobre clientes abordados em uma campanha de marke
 Os dados podem ser acessados pelo [link](https://archive.ics.uci.edu/dataset/222/bank+marketing) junto com mais informações sobre o dataset. Para acessar à análise basta ir no arquivo **bank.ipynb** que se encontra nesta repositôrio.
 
 ------------
-* Referências:
+* Referências: \n
     - Moro, S., Rita, P., & Cortez, P. (2014). Bank Marketing [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5K306.
